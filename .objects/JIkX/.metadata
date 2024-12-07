@@ -1,0 +1,11 @@
+﻿{
+  "Name": "SAP Fiori Application",
+  "Type": "App",
+  "Id": "JIkX_YrHCU2GTxzwC8YURg",
+  "Reference": "ouTwGFAf_kabsac4biCI4A/JIkX_YrHCU2GTxzwC8YURg",
+  "Created": "2024-11-26T09:24:28.3668738Z",
+  "Updated": "2024-11-26T09:24:28.3668738Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,2 @@
+PathToProjectJson,PackageName,OrchestratorFolder,ProcessName,RunTests
+project.json,CICDDemo3,Shared,CICDDemo3,TRUE

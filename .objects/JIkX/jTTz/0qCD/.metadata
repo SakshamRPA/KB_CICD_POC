@@ -1,0 +1,15 @@
+﻿{
+  "Name": "SAP Fiori Login Screen",
+  "Type": "Screen",
+  "Id": "0qCDI9ZRD0mlAicdAPwMcQ",
+  "Reference": "ouTwGFAf_kabsac4biCI4A/0qCDI9ZRD0mlAicdAPwMcQ",
+  "ParentRef": "ouTwGFAf_kabsac4biCI4A/jTTz1vWfcEypNWbB6uctow",
+  "Created": "2024-11-26T09:24:54.7463824Z",
+  "Updated": "2024-11-26T09:25:07.6834083Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
