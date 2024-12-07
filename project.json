@@ -4,7 +4,6 @@
   "description": "CICD pipelines for Yash doain",
   "main": "Main.xaml",
   "dependencies": {
-    "Microsoft.Omex.Extensions.Activities": "[20.0.5]",
     "UiPath.Excel.Activities": "[2.24.3]",
     "UiPath.Mail.Activities": "[1.23.11]",
     "UiPath.System.Activities": "[24.10.4]",
@@ -15,7 +14,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "24.10.6.0",
-  "projectVersion": "1.0.4",
+  "projectVersion": "1.0.5",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
